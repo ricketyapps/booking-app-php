@@ -10,7 +10,7 @@ We will not only design and publish your apps, but we’ll continually release u
 
 ###Want to Use Your Own Developer?###
 If you have a qualified developer working with you, we can also release the source code to you.
-To request access to the source code, please click the button below. Our friendly tech team will be in touch to authorize your developer. 
+To request access to the source code, please contact support@tdispatch.com. Our friendly tech team will be in touch to authorize your developer. 
 
 ###Support Fees###
 In the case that your developer requires support from our tech experts when using our source code, a fee will be incurred.
